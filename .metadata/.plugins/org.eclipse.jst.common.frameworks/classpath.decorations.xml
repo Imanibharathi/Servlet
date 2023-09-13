@@ -1,0 +1,7 @@
+<classpath>
+  <container id="Get_proj!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="D:/JspiderBTM/Servlet/Get_proj/WebContent/WEB-INF/lib/servlet-api.jar">
+      <source-attachment-path>/Get_proj/WebContent/WEB-INF/lib/Driver.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

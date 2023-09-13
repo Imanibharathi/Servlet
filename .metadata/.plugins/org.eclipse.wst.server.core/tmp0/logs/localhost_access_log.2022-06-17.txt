@@ -1,0 +1,6 @@
+127.0.0.1 - - [17/Jun/2022:11:35:55 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:11:35:57 +0530] "GET /Lifecycle_proj/ HTTP/1.1" 200 221
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:11:36:28 +0530] "GET /Lifecycle_proj/fs?nm=Hemaaa&pl=Anathapur HTTP/1.1" 200 84
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:11:38:04 +0530] "GET /Lifecycle_proj/fs?nm=Mani&pl=Tamil+nadu HTTP/1.1" 200 83
+127.0.0.1 - - [17/Jun/2022:11:39:43 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [17/Jun/2022:11:40:33 +0530] "GET /Lifecycle_proj/fs?nm=Hemaaa+Kediii&pl=Ananthapur HTTP/1.1" 200 94
